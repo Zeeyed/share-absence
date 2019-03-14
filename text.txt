@@ -1,8 +1,4 @@
-# share-absence
+﻿# share-absence
 This is bökey. hello.
 this is bökey again
-	const = var ==5
-	{this is an object
-		[this is an array]
-		}
-		
+Hello Bökey and Laura. I'm also here! 
